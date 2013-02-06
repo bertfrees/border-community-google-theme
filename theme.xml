@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<ConfigMaps> 
+  <ConfigMap type="Skin"> 
+    <Meta name="title">Border Community</Meta> 
+    <Meta name="description">The Border Community hills, clouds, birds and windmill.</Meta> 
+    <Meta name="author">Bert Frees</Meta> 
+    <Meta name="author_email">bert@sonuwe.com</Meta>
+    <Meta name="thumbnail">https://raw.github.com/bertfrees/border-community-google-theme/master/thumbnail.gif</Meta>
+  </ConfigMap> 
+  <ConfigMap type="Skin"> 
+    <Attribute name="header.background_color">white</Attribute>
+    <Attribute name="header.tile_image.url">https://raw.github.com/bertfrees/border-community-google-theme/master/hills_clouds_birds.gif</Attribute>
+    <Attribute name="header.center_image.url">https://raw.github.com/bertfrees/border-community-google-theme/master/windmill.gif</Attribute>
+    <Attribute name="header.logo">white</Attribute> 
+    <Attribute name="header.link_color">black</Attribute> 
+    <Attribute name="header.text_color">black</Attribute> 
+    <Attribute name="gadget_area.gadget.header.background_color">#3B6E35</Attribute>
+    <Attribute name="gadget_area.gadget.header.text_color">black</Attribute>
+  </ConfigMap> 	
+</ConfigMaps>
